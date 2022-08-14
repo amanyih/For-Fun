@@ -4,5 +4,4 @@ def summ(num):
         sum += int(i)
     print(sum)
 
-summ(input("enter a number: "))
 
